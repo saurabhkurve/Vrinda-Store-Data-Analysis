@@ -26,5 +26,3 @@ Here is a screenshot of the Vrinda Store Analysis Dashboard:
 
 ![Screenshot 2023-05-31 211238](https://github.com/saurabhkurve/Vrinda-Store-Data-Analysis/assets/68009826/d8c38c4d-0104-43b0-9007-801301142243)
 
-## Contributions
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
